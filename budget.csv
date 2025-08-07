@@ -1,0 +1,4 @@
+category,budgeted,actual,variance,variance_pct
+Marketing,20000,24800,4800,24.0
+Infra,25000,32500,7500,30.0
+Salaries,22000,22000,0,0.0

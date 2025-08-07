@@ -1,0 +1,5 @@
+client,amount,status,days_overdue
+Client A,12000,overdue,10
+Client B,7200,overdue,4
+Client C,5000,overdue,15
+Client D,8000,paid,0

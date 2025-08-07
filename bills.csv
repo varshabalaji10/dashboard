@@ -1,0 +1,4 @@
+vendor,amount,due_in_days,status
+Vendor ABC,15000,2,due soon
+Vendor XYZ,9600,-3,overdue
+Vendor 123,8200,5,due soon
